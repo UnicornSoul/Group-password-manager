@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/06 21:40:22.730.pas,C:\Users\JP\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\JP\Documents\Delphi\Unit\frmLogin_u.pas</Transaction>
+    <Transaction>2018/03/06 21:40:22.730.dfm,C:\Users\JP\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\JP\Documents\Delphi\Unit\frmLogin_u.dfm</Transaction>
+    <Transaction>2018/03/06 21:40:36.136.dproj,C:\Users\JP\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\JP\Documents\Delphi\Unit\frmLogin_p.dproj</Transaction>
+    <Transaction>2018/03/06 21:58:49.681.pas,C:\Users\JP\Documents\Delphi\Unit\Unit1.pas=C:\Users\JP\Documents\Delphi\Unit\frmInfo_u.pas</Transaction>
+    <Transaction>2018/03/06 21:58:49.681.dfm,C:\Users\JP\Documents\Delphi\Unit\Unit1.dfm=C:\Users\JP\Documents\Delphi\Unit\frmInfo_u.dfm</Transaction>
+    <Transaction>2018/03/07 16:13:28.813.pas,C:\Users\JP\Documents\Delphi\Unit\frmInfo_u.pas=C:\Users\JP\Documents\Delphi\Unit\frmInformation_u.pas</Transaction>
+    <Transaction>2018/03/07 16:13:28.841.dfm,C:\Users\JP\Documents\Delphi\Unit\frmInfo_u.dfm=C:\Users\JP\Documents\Delphi\Unit\frmInformation_u.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
